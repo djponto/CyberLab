@@ -1,7 +1,7 @@
-# Comprehensive Cybersecurity Risk Management and Assessment Lab
+# Cybersecurity Lab Setup
 
 ## Introduction
-This project aims to create a simulated organizational environment to apply principles of cybersecurity. It focuses on risk management, threat analysis, system evaluations, policy development, social engineering mitigation, cybercrime investigation, and reconnaissance. This report will guide you through the steps to set up and use the lab environment, highlighting the tools and software used, and providing detailed steps with pictures.
+ This report will guide you through the steps to set up and use the lab environment, highlighting the tools and software used, and providing detailed steps.
 
 ## Tools and Software
 The following tools and software will be used in this project:
