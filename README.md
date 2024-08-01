@@ -104,3 +104,5 @@ The following tools and software will be used in this project:
 This report provides a comprehensive guide to setting up a cybersecurity lab environment using VMware and various security tools. The lab environment will enable you to apply principles of cybersecurity, conduct risk assessments, analyze threats, perform security evaluations, develop policies, mitigate social engineering, investigate cybercrimes, and conduct reconnaissance.
 
 By following these steps, you will create a robust and versatile lab environment that can be used for various cybersecurity training and practice scenarios. This setup will provide practical experience and demonstrate your skills to potential employers.
+---
+George Ofosu, CASP
